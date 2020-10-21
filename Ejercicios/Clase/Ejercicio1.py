@@ -7,5 +7,4 @@ def cuadrados(l):
     for x in l:
         result.append(x)
     return result
-l = 5,4,7,8,3,3.4,9
-print(cuadrados(l))
+print(cuadrados([5,4,7,8,3,3.4,9]))
