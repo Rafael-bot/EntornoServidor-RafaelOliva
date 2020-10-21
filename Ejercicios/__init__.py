@@ -1,2 +1,6 @@
-from Ejercicios import Ejercicio1,Ejercicio2,Ejercicio3
+from Ejercicios import *
+session = Ejercicios()
+
+
+
 
